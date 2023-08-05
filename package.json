@@ -2,7 +2,7 @@
   "name": "event-planner",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Andry1343/Event-Planner/",
+  "homepage": "https://Andry1343/event-planner/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
